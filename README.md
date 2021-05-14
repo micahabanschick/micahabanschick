@@ -9,21 +9,21 @@ Approaching programming problems with the same tenacity, persistence and creativ
   
 ## Projects :art:
 
-**Masterful Mixtures Potion Shop** *WIP* [Demo]Coming Soon! | [Frontend Repo](https://github.com/btdunn/potion-shop) | [Backend Repo](https://github.com/btdunn/potion-shop-back)
+**InContact** [Demo](https://www.youtube.com/watch?v=iu9ygxNh3vQ&t=5s&ab_channel=MicahBanschick) | [Full-Stack Repo](https://github.com/micahabanschick/InContact)
 
-:tea: An RPG themed potion shopping experience with visual novel elements, drag and drop potions, and randomly generated inventory! React Typescript and Ruby on Rails.
+:tea: An easy-to-use portfolio generator. With InContact, entrepreneurs can market themselves to the fullest extent. No more long job searches. Now your clients and employors will come to YOU! Developed with a React-Redux Framework, and backed by a powerful Rails API, there's almost nothing you can't present with InContact.
 
-**Beyond Air Travel** [Demo](https://youtu.be/eSepP49B0Eg) | [Frontend Repo](https://github.com/btdunn/beyond-front)
+**AweSum** [Demo](https://www.youtube.com/watch?v=_84fL5AF2wA&t=1s&ab_channel=MicahBanschick) | [Frontend Repo](https://github.com/micahabanschick/AweSum)
 
-:airplane: An immersive imagining of a retro-futuristic airline booking site in the Mid Century Modern style. Vuex and NodeJS
+:airplane: An educational application that facilitates a basic mathematics quiz for young learners.
 
-**Just Perchin'** [Demo](https://youtu.be/k4Wv7xSpzBE) | [Frontend Repo](https://github.com/btdunn/perchinFront)
+**Love Life** [Demo]Coming Soon! | [Full-Stack Repo](https://github.com/micahabanschick/Love_Life)
 
-:hatched_chick: A garish, loud, parrot themed app with drag and drop birds and achievements. Vanilla JS and Ruby on Rails
+:hatched_chick: A Single Page Application (SPA) that tracks the users monthly expenses based on their inputs for their selected bill options. Behind the hood, it utilizes a powerful Rails-API-backend in conjunction with a smooth Javascripted frontend asthetic.
 
-**Tarot App** [Frontend Repo](https://github.com/btdunn/tarot_Front)
+**Carb Container** [Demo]Coming Soon! | [Frontend Repo](https://github.com/micahabanschick/Carb_Container)
 
-:crystal_ball: A 3 card Tarot reading app using Vanilla JS and Ruby on Rails
+:crystal_ball: An open source tool used to store, record, and calculate your diet macro intake. Once you create your personnal account, you will be able to add different foods you eat throughout the day. Once you see the results of the day and want to reset for the coming day, just click the "Goodnight" and your stats will be reset.
   
 ## Get in Touch :mailbox:
 

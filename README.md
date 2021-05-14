@@ -28,8 +28,8 @@ Approaching programming problems with the same tenacity, persistence and creativ
 ## Get in Touch :mailbox:
 
 <p>
-  <a href="https://www.linkedin.com/in/ben-dunn-15977b15b/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
-  <a href="https://benthedunn.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/micah-banschick/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
+  <a href="https://micahbanschick.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
  </p>
  
  <br />
